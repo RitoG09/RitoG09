@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Video streaming Platform](https://github.com/RitoG09/video-streaming-backend)
 
-- 🌱 I’m currently learning **React, express,**
+- 🌱 I’m currently learning **Recoil, postresql, prisma, typescript, NextJS**
 
 - 💬 Ask me about **MERN**
 
