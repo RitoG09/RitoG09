@@ -1,5 +1,5 @@
 
-<img align="right" alt="cover_photo" width="400" src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png">
+<img align="right" alt="cover_photo" width="800" src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png">
 <h1 align="center">Hi 👋, I'm Ritabrata Ghosh</h1>
 <h3 align="center">Full-Stack Developer || Building Scalable Web Applications</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
