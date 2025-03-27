@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png" alt="cover_photo" width="100%" />
+<img src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png" alt="cover_photo" width="100%" height="50%"/>
 
 <h1 align="center">Hi 👋, I'm Ritabrata Ghosh</h1>
 <h3 align="center">Full-Stack Developer || Building Scalable Web Applications</h3>
