@@ -1,5 +1,6 @@
 
-<img align="right" alt="cover_photo" width="400" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764527_1280.jpg">
+<img align="right" alt="cover_photo" width="400" src="![developer-8764527_1280 (3)](https://github.com/user-attachments/assets/e9908e94-1c09-4b78-ac5f-46580317b72a)
+">
 <h1 align="center">Hi 👋, I'm Ritabrata Ghosh</h1>
 <h3 align="center">Full-Stack Developer || Building Scalable Web Applications</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
